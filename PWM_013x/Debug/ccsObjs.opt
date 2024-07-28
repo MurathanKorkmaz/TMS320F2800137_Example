@@ -1,0 +1,12 @@
+"./f280013x_codestartbranch.obj"
+"./f280013x_defaultisr.obj"
+"./f280013x_epwm.obj"
+"./f280013x_globalvariabledefs.obj"
+"./f280013x_piectrl.obj"
+"./f280013x_pievect.obj"
+"./f280013x_sysctrl.obj"
+"./f280013x_usdelay.obj"
+"./main.obj"
+"C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f280013x/common/cmd/280013x_generic_ram_lnk.cmd"
+"C:/ti/c2000/C2000Ware_5_02_00_00/device_support/f280013x/headers/cmd/f280013x_headers_nonBIOS.cmd"
+-llibc.a
