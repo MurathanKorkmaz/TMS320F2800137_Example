@@ -41,4 +41,3 @@
       - Dijital çıkış sinyali
       - Timer kullanımı
       - ADS1231 ADC Entegresi
-      - 
