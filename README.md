@@ -32,3 +32,12 @@
       - Dijital giriş sinyali
       - Dijital çıkış sinyali
       - Timer kullanımı
+    
+6) ADS1231_013x Dosyasında
+   Bu proje, TMS320F2800137 işlemcisini kullanarak ADS1231 ADC entegresine dijital saat (clock) sinyali göndermektedir. ADS1231 entegresi, bu sinyale karşılık olarak 24 bitlik bir dijital çıkış (DOUT) sinyali üretir. Projede, her 100 ms'de bir dijital saat sinyali gönderilir ve karşılığında 24 bitlik DOUT sinyali alınır. Bekleme süresi, gecikme (delay) kullanmak yerine timer ile kontrol edilmektedir.
+   İşlevler;
+      - Dijital giriş sinyali
+      - Dijital çıkış sinyali
+      - Timer kullanımı
+      - ADS1231 ADC Entegresi
+      - 
